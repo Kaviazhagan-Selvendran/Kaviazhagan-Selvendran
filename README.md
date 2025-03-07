@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Kavi!  
+![Header](./banner-image.png)
 
 🎓 **[Bachelor of Advanced Computing](https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing.html)** @ **University of Sydney**  
 💡 **Majors:** Computational Data Science & Software Development  
